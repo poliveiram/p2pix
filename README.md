@@ -49,7 +49,11 @@ https://www.figma.com/file/oIaOVWGTvicMysidMKxQgb/p2pix?node-id=23%3A2
 
 ––––––––––––––––
 
-### ODS 9
+### ODS 9 | Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation
+https://sdgs.un.org/goals/goal9
+
+United Nations SDGs
+https://sdgs.un.org/goals
 
 9.1 - Desenvolver infraestrutura de qualidade, confiável, sustentável e resiliente, incluindo infraestrutura regional e transfronteiriça, para apoiar o desenvolvimento econômico e o bem-estar humano, com foco no acesso equitativo e a preços acessíveis para todos
 
